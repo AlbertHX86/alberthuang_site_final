@@ -27,14 +27,14 @@ organizations:
     url: nus.edu.sg
 education:
   courses:
-    - course: BEng. in Elctrical Engineering
+    - course: BEng. in Elctrical Engineering (Minor: Business Analytics, Specialization: Industry 4.0)
       institution: National University of Singapore
-      year: ""
+      year: "Class of 2025"
 superuser: true
 status:
   icon: ☕️
 last_name: null
-role: Undergraduate / Consulting intern / Algorithms developer
+role: Undergraduate / Consulting intern / Algorithms developer / Web3.0 enthusiast
 highlight_name: true
 title: Xiao (Albert) HUANG
 first_name: null
