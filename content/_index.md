@@ -54,10 +54,10 @@ sections:
           location: Shanghai / Singapore
           date_start: '2022-12-01'
           date_end: '2024-02-01'
-          descriptions: Led and collaborated with Recommender and Ranking Algorithm development; improved the PV-CTR by 5 times compared with the previous algorithms./
-Collaborated with a cross-functional team of developers to resolve key issues in LeetCode products and improve user experiences./
-Designed and engineered the deep-learning framework and environment for collaborative filtering, XGBoost training./
-Collaborated with system dynamics design of the overall program to improve the robustness of the online IDE for LeetCode./   
+          descriptions: Led and collaborated with Recommender and Ranking Algorithm development; improved the PV-CTR by 5 times compared with the previous algorithms.
+                        Collaborated with a cross-functional team of developers to resolve key issues in LeetCode products and improve user experiences.
+                        Designed and engineered the deep-learning framework and environment for collaborative filtering, XGBoost training.
+                        Collaborated with system dynamics design of the overall program to improve the robustness of the online IDE for LeetCode.  
 
         - title: 'Intern' 
           company: Ernst & Young Parthenon
