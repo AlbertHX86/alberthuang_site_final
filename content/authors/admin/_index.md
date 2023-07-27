@@ -1,84 +1,48 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+avatar_filename: profile.jpeg
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Operations Research
+  - Machine Learning Algorithms
+  - Electrical Engineering
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: /#contact
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/AlbertHX86
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+education:
+  courses:
+    - course: BEng. in Elctrical Engineering
+      institution: National University of Singapore
+      year: ""
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
+role: Undergraduate / Consulting intern / Algorithms developer
 highlight_name: true
+title: Xiao (Albert) HUANG
+first_name: Alice
+email: huang_xiao@u.nus.edu
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As an alumini of the University of Edinburgh, majoring in Electrical and Computer Engineering, I had been studied there for a year. Due to the COVID pandemic, I have reapplied to NUS for Electrical and Computer Engineering.\
+My course content covered EE-related content such as theoretical mathematics, applied mathematics, signals and systems, circuit analysis, energy electronics, etc.\
+It also covered systems engineering-related content such as system dynamics, time series, machine learning, etc.\
+My skills include Arduino, Python, C++, MATLAB, Stella Architect (system dynamics simulation), SolidWorks, and various environmental applications for machine learning.\
+My current research interests focus on optimisation, Bayesian clustering, smart grids, etc. Previous research projects include dynamic pricing models for airline tickets, smart grid optimisation and clustering problems.\
+Looking forward to research opportunities and positions in consulting and product management!
 {style="text-align: justify;"}
