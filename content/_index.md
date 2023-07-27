@@ -46,11 +46,6 @@ sections:
           location: Shanghai
           date_start: '2023-04-28'
           date_end: '2023-07-28'
-          description: |2-
-              Responsibilities include:
-              * Algorithms
-              * Consulting
-              * Machine Learning
         - title: PTA 
               company: Roland Berger
               company_url: ''
@@ -58,11 +53,6 @@ sections:
               location: Shanghai / Singapore
               date_start: '2022-12-01'
               date_end: '2024-02-01'
-              description: |2-
-                  Responsibilities include:
-                  * Management Consulting
-                  * Data Analytics
-                  * Desk researches
         - title: Intern 
               company: Ernst & Young Parthenon
               company_url: ''
@@ -70,11 +60,6 @@ sections:
               location: Shanghai
               date_start: '2022-05-01'
               date_end: '2022-08-01'
-              description: |2-
-                  Responsibilities include:
-                  * Strategic Consulting
-                  * Data analytics
-                  * Desk Researches / cold calls
 
     design:
       columns: '2'
