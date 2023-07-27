@@ -1,5 +1,5 @@
 ---
-avatar_filename: 'albert.jpg'
+avatar_filename: hx.jpg
 bio: Hello World
 interests:
   - Operations Research
