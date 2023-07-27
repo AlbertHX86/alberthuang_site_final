@@ -38,29 +38,28 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    items:|2-
-        title: 'Intern' 
-              company: LeetCode
-              company_url: ''
-              company_logo: 
-              location: Shanghai
-              date_start: '2023-04-28'
-              date_end: ''
-        title: 'PTA' 
-              company: Roland Berger
-              company_url: ''
-              company_logo: 
-              location: Shanghai / Singapore
-              date_start: '2022-12-01'
-              date_end: '2024-02-01'
-        title: 'Intern' 
-              company: Ernst & Young Parthenon
-              company_url: ''
-              company_logo: 
-              location: Shanghai
-              date_start: '2022-05-01'
-              date_end: '2022-08-01'
-
+      items:
+        - title: 'Intern' 
+          company: LeetCode
+          company_url: ''
+          company_logo: 
+          location: Shanghai
+          date_start: '2023-04-28'
+          date_end: ''
+        - title: 'PTA' 
+          company: Roland Berger
+          company_url: ''
+          company_logo: 
+          location: Shanghai / Singapore
+          date_start: '2022-12-01'
+          date_end: '2024-02-01'
+        - title: 'Intern' 
+          company: Ernst & Young Parthenon
+          company_url: ''
+          company_logo: 
+          location: Shanghai
+          date_start: '2022-05-01'
+          date_end: '2022-08-01'
     design:
       columns: '2'
   - block: contact
