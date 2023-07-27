@@ -40,18 +40,44 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Intern 
-          company: LeetCode, Roland Berger, Ernst & Young Parthenon
+          company: LeetCode
           company_url: ''
           company_logo: 
-          location: California
-          date_start: '2021-06-01'
-          date_end: ''
+          location: Shanghai
+          date_start: '2023-04-28'
+          date_end: '2023-07-28'
           description: |2-
               Responsibilities include:
 
               * Algorithms
               * Consulting
               * Machine Learning
+        - title: PTA 
+              company: Roland Berger
+              company_url: ''
+              company_logo: 
+              location: Shanghai / Singapore
+              date_start: '2022-12-01'
+              date_end: '2024-02-01'
+              description: |2-
+                  Responsibilities include:
+    
+                  * Management Consulting
+                  * Data Analytics
+                  * Desk researches
+        - title: Intern 
+              company: Ernst & Young Parthenon
+              company_url: ''
+              company_logo: 
+              location: Shanghai
+              date_start: '2022-05-01'
+              date_end: '2022-08-01'
+              description: |2-
+                  Responsibilities include:
+    
+                  * Strategic Consulting
+                  * Data analytics
+                  * Desk Researches / cold calls
 
     design:
       columns: '2'
@@ -61,7 +87,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: huang_xiao@u.nus.edu
       phone: +65 80397262 / +86 15522133486
