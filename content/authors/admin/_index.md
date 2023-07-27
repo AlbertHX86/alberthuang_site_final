@@ -17,13 +17,13 @@ social:
     link: https://github.com/AlbertHX86
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xiao-h-26b2171b7/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National University of Singapore
+    url: nus.edu.sg
 education:
   courses:
     - course: BEng. in Elctrical Engineering
@@ -32,7 +32,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: 
 role: Undergraduate / Consulting intern / Algorithms developer
 highlight_name: true
 title: Xiao (Albert) HUANG
