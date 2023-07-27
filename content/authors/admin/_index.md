@@ -1,5 +1,5 @@
 ---
-avatar_filename: profile.jpeg
+avatar_filename: albert.jpg
 bio: ""
 interests:
   - Operations Research
@@ -32,11 +32,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: 
+last_name: null
 role: Undergraduate / Consulting intern / Algorithms developer
 highlight_name: true
 title: Xiao (Albert) HUANG
-first_name: 
+first_name: null
 email: huang_xiao@u.nus.edu
 ---
 As an alumini of the University of Edinburgh, majoring in Electrical and Computer Engineering, I had been studied there for a year. Due to the COVID pandemic, I have reapplied to NUS for Electrical and Computer Engineering.\
