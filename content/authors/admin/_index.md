@@ -3,7 +3,8 @@ avatar_filename: avatar.jpg
 bio: Hello World
 interests:
   - Operations Research
-  - Machine Learning Algorithms
+  - Machine Learning
+  - Industry 4.0
   - Electrical Engineering
 social:
   - icon: envelope
@@ -39,10 +40,15 @@ title: Xiao (Albert) HUANG
 first_name: null
 email: huang_xiao@u.nus.edu
 ---
-As an alumini of the University of Edinburgh, majoring in Electrical and Computer Engineering, I had been studied there for a year. Due to the COVID pandemic, I have reapplied to NUS for Electrical and Computer Engineering.\
-My course content covered EE-related content such as theoretical mathematics, applied mathematics, signals and systems, circuit analysis, energy electronics, etc.\
-It also covered systems engineering-related content such as system dynamics, time series, machine learning, etc.\
-My skills include Arduino, Python, C++, MATLAB, Stella Architect (system dynamics simulation), SolidWorks, and various environmental applications for machine learning.\
-My current research interests focus on optimisation, Bayesian clustering, smart grids, etc. Previous research projects include dynamic pricing models for airline tickets, smart grid optimisation and clustering problems.\
-Looking forward to research opportunities and positions in consulting and product management!
+As an alumnus of the prestigious University of Edinburgh, with a major in Electrical and Computer Engineering, I completed a year of rigorous study at the institution. In response to the challenges posed by the COVID pandemic, I have taken the initiative to re-apply to the National University of Singapore (NUS) to pursue further studies in Electrical and Computer Engineering.\
+
+During my academic tenure, my coursework encompassed a comprehensive range of EE-related subjects, including theoretical mathematics, applied mathematics, signals and systems, circuit analysis, and energy electronics. Additionally, I delved into system engineering topics, such as system dynamics, time series, and machine learning, among others.\
+
+My skill set comprises proficiency in Arduino, Python, C++, MATLAB, Stella Architect (a system dynamics simulation tool), SolidWorks, and diverse applications of machine learning within environmental contexts.\
+
+Presently, my research interests revolve around optimization techniques, Bayesian clustering methodologies, and the domain of smart grids. I am deeply invested in exploring these areas to contribute valuable insights to the field.\
+
+Having engaged in previous research endeavors, I have actively worked on dynamic pricing models for airline tickets, smart grid optimization, and clustering problems. These experiences have honed my analytical abilities and fortified my passion for academic exploration.\
+
+I am eagerly seeking opportunities in research and consulting roles, and I am equally enthusiastic about pursuing positions in product management.\
 {style="text-align: justify;"}
