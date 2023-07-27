@@ -46,8 +46,7 @@ sections:
           location: Shanghai
           date_start: '2023-04-28'
           date_end: ''
-          descriptions: a/b/c
-                    
+          descriptions:                 
         - title: 'PTA' 
           company: Roland Berger
           company_url: ''
