@@ -16,15 +16,15 @@ sections:
       title: Skills
       items:
         - name: Programming
-          description: 
+          description: Python, C++
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 
+          description: ML, Linear Programming 
           icon: chart-line
           icon_pack: fas
         - name: Research
-          description: 
+          description: smart grids, dynamic pricing
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -46,6 +46,7 @@ sections:
           location: Shanghai
           date_start: '2023-04-28'
           date_end: ''
+          description: Algorithm Product Manager intern at LeetCode, focusing on developing ranking and recommender algorithms to boost the user experiences on the feed stream.
         - title: 'PTA' 
           company: Roland Berger
           company_url: ''
