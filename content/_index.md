@@ -58,7 +58,7 @@ sections:
           company_logo: org-x
           location: Singapore
           date_start: '2022-08-01'
-          date_end: 
+          date_end: ''
           description:Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
