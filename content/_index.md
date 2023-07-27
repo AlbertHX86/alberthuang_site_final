@@ -40,15 +40,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Intern 
-          company: LeetCode
-          company_url: ''
-          company_logo: 
-          location: Shanghai
-          date_start: '2023-04-28'
-          date_end: ''
+              company: LeetCode
+              company_url: ''
+              company_logo: 
+              location: Shanghai
+              date_start: '2023-04-28'
+              date_end: ''
         - title: PTA 
-          company: Roland Berger
-          company_url: ''
+              company: Roland Berger
+              company_url: ''
               company_logo: 
               location: Shanghai / Singapore
               date_start: '2022-12-01'
