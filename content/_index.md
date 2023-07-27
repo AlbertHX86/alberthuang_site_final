@@ -48,7 +48,6 @@ sections:
           date_end: '2023-07-28'
           description: |2-
               Responsibilities include:
-
               * Algorithms
               * Consulting
               * Machine Learning
@@ -61,7 +60,6 @@ sections:
               date_end: '2024-02-01'
               description: |2-
                   Responsibilities include:
-    
                   * Management Consulting
                   * Data Analytics
                   * Desk researches
@@ -74,7 +72,6 @@ sections:
               date_end: '2022-08-01'
               description: |2-
                   Responsibilities include:
-    
                   * Strategic Consulting
                   * Data analytics
                   * Desk Researches / cold calls
