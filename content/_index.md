@@ -76,7 +76,7 @@ sections:
       address:
         street: 
         city: Singapore
-        region: CA
+        region: SG
         postcode: '118430'
         country: Singapore
         country_code: SG
