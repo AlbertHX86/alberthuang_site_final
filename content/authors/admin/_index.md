@@ -40,7 +40,7 @@ title: Xiao (Albert) HUANG
 first_name: null
 email: huang_xiao@u.nus.edu
 ---
-As an alumnus of the prestigious University of Edinburgh, with a major in Electrical and Computer Engineering, I completed a year of rigorous study at the institution. In response to the challenges posed by the COVID pandemic, I have taken the initiative to re-apply to the National University of Singapore (NUS) to pursue further studies in Electrical and Computer Engineering.
+As an alumnus of the University of Edinburgh, with a major in Electrical and Computer Engineering, I completed a year of rigorous study at the institution. And I had re-applied to National University of Singapore (NUS) to pursue  further studies in Electrical Engineering.
 
 During my academic tenure, my coursework encompassed a comprehensive range of EE-related subjects, including theoretical mathematics, applied mathematics, signals and systems, circuit analysis, and energy electronics. Additionally, I delved into system engineering topics, such as system dynamics, time series, and machine learning, among others.
 
