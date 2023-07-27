@@ -1,6 +1,6 @@
 ---
 avatar_filename: albert.jpg
-bio: ""
+bio: Hello World
 interests:
   - Operations Research
   - Machine Learning Algorithms
