@@ -46,7 +46,8 @@ sections:
           location: Shanghai
           date_start: '2023-04-28'
           date_end: ''
-          descriptions: Algorithm Product Manager intern at LeetCode, focusing on developing ranking and recommender algorithms to boost the user experiences on the feed stream.
+          descriptions: a/b/c
+                    
         - title: 'PTA' 
           company: Roland Berger
           company_url: ''
@@ -54,11 +55,7 @@ sections:
           location: Shanghai / Singapore
           date_start: '2022-12-01'
           date_end: '2024-02-01'
-          descriptions: \Led and collaborated with Recommender and Ranking Algorithm development; improved the PV-CTR by 5 times compared with the previous algorithms.
-                        Collaborated with a cross-functional team of developers to resolve key issues in LeetCode products and improve user experiences./
-                        Designed and engineered the deep-learning framework and environment for collaborative filtering, XGBoost training.
-                        Collaborated with system dynamics design of the overall program to improve the robustness of the online IDE for LeetCode.  
-
+          descriptions:
         - title: 'Intern' 
           company: Ernst & Young Parthenon
           company_url: ''
