@@ -46,7 +46,7 @@ sections:
           location: Shanghai
           date_start: '2023-04-28'
           date_end: ''
-          description: Algorithm Product Manager intern at LeetCode, focusing on developing ranking and recommender algorithms to boost the user experiences on the feed stream.
+          descriptions: Algorithm Product Manager intern at LeetCode, focusing on developing ranking and recommender algorithms to boost the user experiences on the feed stream.
         - title: 'PTA' 
           company: Roland Berger
           company_url: ''
