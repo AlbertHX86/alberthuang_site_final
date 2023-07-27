@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/xiao-h-26b2171b7/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/ Huang Xiao.pdf
 organizations:
   - name: National University of Singapore
     url: nus.edu.sg
@@ -36,7 +36,7 @@ last_name:
 role: Undergraduate / Consulting intern / Algorithms developer
 highlight_name: true
 title: Xiao (Albert) HUANG
-first_name: Alice
+first_name: 
 email: huang_xiao@u.nus.edu
 ---
 As an alumini of the University of Edinburgh, majoring in Electrical and Computer Engineering, I had been studied there for a year. Due to the COVID pandemic, I have reapplied to NUS for Electrical and Computer Engineering.\
