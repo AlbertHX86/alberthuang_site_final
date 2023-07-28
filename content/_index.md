@@ -46,7 +46,7 @@ sections:
           location: Shanghai
           date_start: '2023-04-28'
           date_end: '2023-07-28'
-          descriptions: ‘Recommender and ranking algorithms development of the feed stream. Product management of Study Plan feature.’                 
+          descriptions: 'Recommender and ranking algorithms development of the feed stream. Product management of Study Plan feature.'                
         - title: 'PTA' 
           company: Roland Berger
           company_url: ''
