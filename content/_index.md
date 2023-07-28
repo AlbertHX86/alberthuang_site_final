@@ -39,14 +39,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 'Intern' 
+        - title: 'Product Manager Intern (C-end Algorithms)' 
           company: LeetCode
           company_url: ''
           company_logo: 
           location: Shanghai
           date_start: '2023-04-28'
-          date_end: ''
-          descriptions:                 
+          date_end: '2023-07-28'
+          descriptions: Recommender and ranking algorithms development of the feed stream. Product management of 'Study Plan' feature.                 
         - title: 'PTA' 
           company: Roland Berger
           company_url: ''
