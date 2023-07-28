@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. Created by Albert Xiao, HUANG. A HUGE appreciation to Geroge Cushen'
+    notice: '© {year} Me. Created by Albert HUANG. A HUGE appreciation to Geroge Cushen'
     license:
       enable: true
       allow_derivatives: false
