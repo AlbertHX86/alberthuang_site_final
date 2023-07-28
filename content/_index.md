@@ -95,7 +95,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
+      subtitle:    
       text: |-
         Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
@@ -122,4 +122,7 @@ sections:
           captcha: false
     design:
       columns: '2'
+    content:
+      title: Vistor's map
+      directions: <a href='https://clustrmaps.com/site/1bshb'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=700&t=n&d=oiWp7_jThPCJRWKzXSPLoXZVVG1i5roBJdOC12WuESM'/></a>
 ---
