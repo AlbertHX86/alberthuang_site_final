@@ -55,7 +55,7 @@ sections:
           date_start: '2022-12-01'
           date_end: '2024-02-01'
           descriptions:
-        - title: 'Intern' 
+        - title: 'Project Intern' 
           company: Ernst & Young Parthenon
           company_url: ''
           company_logo: 
