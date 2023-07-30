@@ -60,10 +60,7 @@ sections:
           date_start: '2022-12-01'
           date_end: '2024-02-01'
           descriptions:|2-
-                - Conducted in-depth research on new energy vehicles and related OEM industries, resulting in the preparation of monthly reports for client companies (new power car companies).
-                - Analyzed market conditions and trends, collected and analyzed domestic and foreign market data using Excel, Python and other tools, resulting in data-driven insights and visual representation of findings.
-                - Assisted the project team in conducting expert interviews with executives and organized and summarized interview minutes to extract key insights and perspectives.
-                - Utilized ThinkCell and ISlides to design visually compelling presentations, effectively communicating key findings and insights based on industrial data collected.
+
 
         - title: 'Project Intern' 
           company: Ernst & Young Parthenon
