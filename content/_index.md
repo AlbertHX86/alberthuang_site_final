@@ -1,3 +1,4 @@
+---
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -15,15 +16,15 @@ sections:
       title: Skills
       items:
         - name: Programming
-          description: Python, C++, Matlab, R
+          description: Python, C++
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: ML, Linear Programming, Bayesian 
+          description: ML, Linear Programming 
           icon: chart-line
           icon_pack: fas
         - name: Research
-          description: Smart grids, Dynamic pricing
+          description: smart grids, dynamic pricing
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -38,14 +39,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 'Product Manager Intern (C-end Algorithms)' 
+        - title: 'Intern' 
           company: LeetCode
           company_url: ''
           company_logo: 
           location: Shanghai
           date_start: '2023-04-28'
-          date_end: '2023-07-28'
-          description: 
+          date_end: ''
+          descriptions: a/b/c
+                    
+        - title: 'PTA' 
           company: Roland Berger
           company_url: ''
           company_logo: 
@@ -53,7 +56,7 @@ sections:
           date_start: '2022-12-01'
           date_end: '2024-02-01'
           descriptions:
-        - title: 'Project Intern' 
+        - title: 'Intern' 
           company: Ernst & Young Parthenon
           company_url: ''
           company_logo: 
@@ -62,38 +65,11 @@ sections:
           date_end: '2022-08-01'
     design:
       columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
   - block: contact
     id: contact
     content:
       title: Contact
-      subtitle:    
+      subtitle:
       text: |-
         Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
@@ -120,7 +96,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-    content:
-      title: Vistor's map
-      directions: 
 ---
