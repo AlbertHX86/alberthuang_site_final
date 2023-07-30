@@ -47,8 +47,11 @@ sections:
           date_start: '2023-04-28'
           date_end: '2023-07-28'
           description: |2-
-              - Recommender and ranking algorithms development of the feed stream.
-              - Product management of Study Plan feature.             
+- Led and collaborated with Recommender and Ranking Algorithm development; improved the PV-CTR by 5 times compared with the previous algorithms.
+- Collaborated with a cross-functional team of developers to resolve key issues in LeetCode products and improve user experiences.
+- Designed and engineered the deep-learning framework and environment for collaborative filtering, XGBoost training.
+- Collaborated with system dynamics design of the overall program to improve the robustness of the online IDE for LeetCode.   
+          
         - title: 'PTA' 
           company: Roland Berger
           company_url: ''
