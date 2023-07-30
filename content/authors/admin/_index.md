@@ -42,13 +42,13 @@ email: huang_xiao@u.nus.edu
 ---
 As an alumnus of the University of Edinburgh, with a major in Electrical and Computer Engineering, I completed a year of rigorous study at the institution. And I had re-applied to National University of Singapore (NUS) to pursue  further studies in Electrical Engineering.
 
-During my academic tenure, my coursework encompassed a comprehensive range of EE-related subjects, including theoretical mathematics, applied mathematics, signals and systems, circuit analysis, and energy electronics. Additionally, I delved into system engineering topics, such as system dynamics, time series, and machine learning, among others.
+During my academic tenure, my coursework encompassed a comprehensive range of EE-related subjects, including theoretical mathematics, applied mathematics, signals and systems, circuit analysis, and energy electronics. Additionally, I delved into system engineering topics, such as system dynamics, time series, and machine learning, etc.
 
-My skill set comprises proficiency in Arduino, Python, C++, MATLAB, Stella Architect (a system dynamics simulation tool), SolidWorks, and diverse applications of machine learning within environmental contexts.
+My skill set comprises proficiency in Arduino, Python, C++, MATLAB, Stella Architect (a system dynamics simulation tool), SolidWorks, and diverse applications of machine learning.
 
 Presently, my research interests revolve around optimization techniques, Bayesian clustering methodologies, and the domain of smart grids. I am deeply invested in exploring these areas to contribute valuable insights to the field.
 
 Having engaged in previous research endeavors, I have actively worked on dynamic pricing models for airline tickets, smart grid optimization, and clustering problems. These experiences have honed my analytical abilities and fortified my passion for academic exploration.
 
-I am eagerly seeking opportunities in research and consulting roles, and I am equally enthusiastic about pursuing positions in product management.
+I am eagerly seeking opportunities in research in system engineering and management consulting. Thank you and welcome to my page
 {style="text-align: justify;"}
