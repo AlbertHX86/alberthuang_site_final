@@ -47,10 +47,10 @@ sections:
           date_start: '2023-04-28'
           date_end: '2023-07-28'
           description: |2-
-                - Led and collaborated with Recommender and Ranking Algorithm development; improved the PV-CTR by 5 times compared with the previous algorithms.
-                - Collaborated with a cross-functional team of developers to resolve key issues in LeetCode products and improve user experiences.
-                - Designed and engineered the deep-learning framework and environment for collaborative filtering, XGBoost training.
-                - Collaborated with system dynamics design of the overall program to improve the robustness of the online IDE for LeetCode.   
+                                - Led and collaborated with Recommender and Ranking Algorithm development; improved the PV-CTR by 5 times compared with the previous algorithms.
+                                - Collaborated with a cross-functional team of developers to resolve key issues in LeetCode products and improve user experiences.
+                                - Designed and engineered the deep-learning framework and environment for collaborative filtering, XGBoost training.
+                                - Collaborated with system dynamics design of the overall program to improve the robustness of the online IDE for LeetCode.   
           
         - title: 'PTA' 
           company: Roland Berger
@@ -59,7 +59,12 @@ sections:
           location: Shanghai / Singapore
           date_start: '2022-12-01'
           date_end: '2024-02-01'
-          descriptions:
+          descriptions:|2-
+                - Conducted in-depth research on new energy vehicles and related OEM industries, resulting in the preparation of monthly reports for client companies (new power car companies).
+                - Analyzed market conditions and trends, collected and analyzed domestic and foreign market data using Excel, Python and other tools, resulting in data-driven insights and visual representation of findings.
+                - Assisted the project team in conducting expert interviews with executives and organized and summarized interview minutes to extract key insights and perspectives.
+                - Utilized ThinkCell and ISlides to design visually compelling presentations, effectively communicating key findings and insights based on industrial data collected.
+
         - title: 'Project Intern' 
           company: Ernst & Young Parthenon
           company_url: ''
