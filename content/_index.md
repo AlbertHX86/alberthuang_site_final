@@ -46,7 +46,7 @@ sections:
           location: Shanghai, Singapore (remote)
           date_start: '2023-04-28'
           date_end: '2023-07-28'
-          description: - Recommender and ranking algorithm development for feed stream contents. C-end product management.
+          description: Recommender and ranking algorithm development for feed stream contents. C-end product management.
                     
         - title: 'PTA' 
           company: Roland Berger
