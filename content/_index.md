@@ -55,7 +55,6 @@ sections:
           location: Shanghai / Singapore
           date_start: '2022-12-01'
           date_end: '2024-02-01'
-          description:123
         - title: 'Intern' 
           company: Ernst & Young Parthenon
           company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
