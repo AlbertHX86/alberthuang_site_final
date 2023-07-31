@@ -1,7 +1,31 @@
-# ... (previous content)
+---
+title:
+date: 2022-10-24
+type: landing
 
 sections:
-  # ... (previous sections)
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      username: admin
+
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: Programming
+          description: Python, C++, MATLAB
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: ML, Linear Programming 
+          icon: chart-line
+          icon_pack: fas
+        - name: Research
+          description: smart grids, dynamic pricing
+          icon: camera-retro
+          icon_pack: fas
 
   - block: experience
     content:
@@ -47,4 +71,31 @@ sections:
     design:
       columns: '2'
   
-# ... (remaining content)
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Please feel free to contact me!
+      email: huang_xiao@u.nus.edu
+      phone: +65 80397262 / +86 15522133486
+      appointment_url: 'https://calendly.com'
+      address:
+        street: 
+        city: Singapore
+        region: SG
+        postcode: '118430'
+        country: Singapore
+        country_code: SG
+      directions: E4A
+      autolink: true
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          captcha: false
+    design:
+      columns: '2'
+---
