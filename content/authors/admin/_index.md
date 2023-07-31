@@ -27,9 +27,10 @@ organizations:
     url: nus.edu.sg
 education:
   courses:
-    - course: BEng. in Elctrical Engineering, Minor in Business Analytics, Specialization in Industry 4.0
+    - course: BEng. in Elctrical Engineering, Minor in Business Analytics,
+        Specialization in Industry 4.0
       institution: National University of Singapore
-      year: "Class of 2025"
+      year: Class of 2025
 superuser: true
 status:
   icon: ☕️
@@ -50,5 +51,5 @@ Presently, my research interests revolve around optimization techniques, Bayesia
 
 Having engaged in previous research endeavors, I have actively worked on dynamic pricing models for airline tickets, smart grid optimization, and clustering problems. These experiences have honed my analytical abilities and fortified my passion for academic exploration.
 
-I am eagerly seeking opportunities in research in system engineering and management consulting. Thank you and welcome to my page
+I am eagerly seeking opportunities in research in system engineering and management consulting. Thank you and welcome to my page!
 {style="text-align: justify;"}
