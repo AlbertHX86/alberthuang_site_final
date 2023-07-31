@@ -16,7 +16,7 @@ sections:
       title: Skills
       items:
         - name: Programming
-          description: Python, C++
+          description: Python, C++, MATLAB
           icon: r-project
           icon_pack: fab
         - name: Statistics
@@ -39,18 +39,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 'Intern' 
+        - title: 'Proeuct Manager Intern, Algorithm' 
           company: LeetCode
-          company_url: ''
+          company_url: 'leetcode.com'
           company_logo: 
-          location: Shanghai
+          location: Shanghai, Singapore (remote)
           date_start: '2023-04-28'
-          date_end: ''
-          descriptions: a/b/c
+          date_end: '2023-07-28'
+          descriptions: Recommender and ranking algorithm development for feed stream contents. C-end product management.
                     
         - title: 'PTA' 
           company: Roland Berger
-          company_url: ''
+          company_url: 'https://www.rolandberger.com/en/'
           company_logo: 
           location: Shanghai / Singapore
           date_start: '2022-12-01'
@@ -58,7 +58,7 @@ sections:
           descriptions:
         - title: 'Intern' 
           company: Ernst & Young Parthenon
-          company_url: ''
+          company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
           company_logo: 
           location: Shanghai
           date_start: '2022-05-01'
