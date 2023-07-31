@@ -24,7 +24,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: National University of Singapore
-    url: nus.edu.sg
+    url: https://www.nus.edu.sg/
 education:
   courses:
     - course: BEng. in Elctrical Engineering, Minor in Business Analytics,
