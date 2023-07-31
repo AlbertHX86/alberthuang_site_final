@@ -46,7 +46,7 @@ sections:
           location: Shanghai, Singapore (remote)
           date_start: '2023-04-28'
           date_end: '2023-07-28'
-          descriptions: Recommender and ranking algorithm development for feed stream contents. C-end product management.
+          description: Recommender and ranking algorithm development for feed stream contents. C-end product management.
                     
         - title: 'PTA' 
           company: Roland Berger
@@ -55,7 +55,7 @@ sections:
           location: Shanghai / Singapore
           date_start: '2022-12-01'
           date_end: '2024-02-01'
-          descriptions:
+          description:123
         - title: 'Intern' 
           company: Ernst & Young Parthenon
           company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
