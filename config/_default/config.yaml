@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Huang Xiao, National University of Singapore # Website name
+title: Huang Xiao # Website name
 baseURL: 'https://alberthuang.xyz/' # Website URL
-description:"'Welcome to Albert, Huang Xiao's personal website"
+description: 'Huang Xiao is a student at National University of Singapore'
 
 ############################
 ## LANGUAGE
