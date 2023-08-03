@@ -11,12 +11,39 @@
   <loc>https://alberthuang.xyz/</loc>
   <lastmod>2023-08-02T03:53:10+00:00</lastmod>
   <priority>1.00</priority>
+  <xhtml:link
+    rel="alternate"
+    hreflang="x-default"
+    href="https://alberthuang.xyz/"
+    title="Huang Xiao"
+    type="text/html"
+  />
+  <xhtml:link
+    rel="alternate"
+    hreflang="x-default"
+    href="https://alberthuang.xyz/"
+    title="personal website of Huang Xiao"
+    type="text/html"
+  />
 </url>
 <url>
   <loc>https://alberthuang.xyz/uploads/resume.pdf</loc>
   <lastmod>2023-08-02T03:53:10+00:00</lastmod>
   <priority>0.80</priority>
+  <xhtml:link
+    rel="alternate"
+    hreflang="x-default"
+    href="https://alberthuang.xyz/uploads/resume.pdf"
+    title="Huang Xiao"
+    type="application/pdf"
+  />
+  <xhtml:link
+    rel="alternate"
+    hreflang="x-default"
+    href="https://alberthuang.xyz/uploads/resume.pdf"
+    title="personal website of Huang Xiao"
+    type="application/pdf"
+  />
 </url>
-
 
 </urlset>
