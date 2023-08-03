@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Albert' # Website name
+title: 'Huang Xiao' # Website name
 baseURL: 'https://alberthuang.xyz/' # Website URL
 description: 'Huang Xiao is a student at National University of Singapore'
 
@@ -68,11 +68,12 @@ related:
       weight: 100
     - name: categories
       weight: 70
+      
 security:
   _merge: deep
 sitemap:
-  changefreq: "always"
-  priority: 0.5
+  _merge: deep
+  
 
 minify:
   _merge: deep
