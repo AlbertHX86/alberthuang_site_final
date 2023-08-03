@@ -104,6 +104,17 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+# Widget Section
+widget:
+- name: contact
+  weight: 20
+  content:
+    map:
+      provider: revolvermaps # Choose a map provider (e.g. '', 'google', 'mapnik', 'mapbox')
+      api_key: '' # Optional API key for the chosen map provider.
+      zoom: 14 # Zoom level of the map (try adjusting this until it fits well with your address)
+      lat: 37.77 # Latitude of the location to show on the map (try adjusting this until it fits well with your address)
+      lng: -122.41 # Longitude of the location to show on the map (try adjusting this until it fits well with your address)
 
 # Extensions
 
