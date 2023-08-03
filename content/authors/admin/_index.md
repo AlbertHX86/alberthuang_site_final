@@ -18,7 +18,7 @@ social:
     link: https://github.com/AlbertHX86
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/xiao-h-26b2171b7/
+    link: www.linkedin.com/in/xiao-huang-26b2171b7
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -27,7 +27,7 @@ organizations:
     url: https://www.nus.edu.sg/
 education:
   courses:
-    - course: BEng. in Elctrical Engineering, Minor in Business Analytics,
+    - course: BEng. in Electrical Engineering, Minor in Business Analytics,
         Specialization in Industry 4.0
       institution: National University of Singapore
       year: Class of 2025
