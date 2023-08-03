@@ -1,5 +1,5 @@
 ---
-title:
+title: Huang Xiao
 date: 2022-10-24
 type: landing
 
@@ -27,7 +27,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
 
-   - block: experience
+  - block: experience
     content:
       title: Experiences
       date_format: Jan 2006
@@ -71,7 +71,6 @@ sections:
     design:
       columns: '2'
   
-
   - block: portfolio
     id: projects
     content:
@@ -79,13 +78,7 @@ sections:
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
           tag: '*'
@@ -94,12 +87,9 @@ sections:
         - name: Other
           tag: Demo
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
-      # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
 
   - block: contact
     id: contact
@@ -128,7 +118,6 @@ sections:
           captcha: false
     design:
       columns: '2'
-    
     content:
       title: Vistor's map
       directions: <a href="http://www.clustrmaps.com/map/Alberthuang.xyz" title="Visit tracker for Alberthuang.xyz"><img src="//www.clustrmaps.com/map_v2.png?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM" /></a>
