@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Huang Xiao' # Website name
+title: 'Albert' # Website name
 baseURL: 'https://alberthuang.xyz/' # Website URL
 description: 'Huang Xiao is a student at National University of Singapore'
 
