@@ -18,7 +18,7 @@ social:
     link: https://github.com/AlbertHX86
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/xiao-huang-26b2171b7/'
+    link: https://www.linkedin.com/in/xiao-huang-26b2171b7/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -47,7 +47,7 @@ During my academic tenure, my coursework encompassed a comprehensive range of EE
 
 My skill set comprises proficiency in Arduino, Python, C++, MATLAB, Stella Architect (a system dynamics simulation tool), SolidWorks, and diverse applications of machine learning.
 
-Presently, my research interests revolve around optimization techniques, Bayesian clustering methodologies, and the domain of smart grids. I am deeply invested in exploring these areas to contribute valuable insights to the field.
+Presently, my research interests revolve around optimization techniques, Bayesian clustering methodologies, and the domain of smart grids. I was working with prof. [Xiang Cheng](https://cde.nus.edu.sg/ece/staff/xiang-cheng/), and I am deeply invested in exploring these areas to contribute valuable insights to the field.
 
 Having engaged in previous research endeavors, I have actively worked on dynamic pricing models for airline tickets, smart grid optimization, and clustering problems. These experiences have honed my analytical abilities and fortified my passion for academic exploration.
 
