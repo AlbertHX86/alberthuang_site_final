@@ -119,9 +119,9 @@ sections:
     design:
       columns: '2'
     
-  - block: contact
-    id: contact
-    content:
-      title: 'Vistor's map'
-      directions: <a href="http://www.clustrmaps.com/map/Alberthuang.xyz" title="Visit tracker for Alberthuang.xyz"><img src="//www.clustrmaps.com/map_v2.png?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM" /></a>
+ # - block: contact
+ #   id: contact
+ #   content:
+ #     title: 'Vistor's map'
+ #    directions: <a href="http://www.clustrmaps.com/map/Alberthuang.xyz" title="Visit tracker for Alberthuang.xyz"><img src="//www.clustrmaps.com/map_v2.png?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM" /></a>
 ---
