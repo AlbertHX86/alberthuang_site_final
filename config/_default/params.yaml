@@ -47,7 +47,7 @@ footer:
   copyright:
     notice: '© {year} Me. Created by Albert HUANG. A HUGE appreciation to Geroge Cushen'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
