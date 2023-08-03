@@ -119,7 +119,7 @@ sections:
     design:
       columns: '2'
     
- - block: contact
+  - block: contact
     id: contact
     content:
       title: Vistor's map
