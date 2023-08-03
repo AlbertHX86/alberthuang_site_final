@@ -52,10 +52,6 @@ footer:
       share_alike: true
       allow_commercial: false
   
-  columns: "1" # You can adjust the number of footer columns based on your design
-  content:
-    # Other footer elements may be present here
-    - html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM"></script>'
 
 # Localization
 
