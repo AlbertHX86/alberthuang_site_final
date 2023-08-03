@@ -32,45 +32,9 @@ sections:
       title: Experiences
       date_format: Jan 2006
       items:
-        - title: 'Product Manager Intern, Algorithm'
-          company: LeetCode
-          company_url: 'https://leetcode.com/'
-          company_logo:
-          location: Shanghai, Singapore (remote)
-          date_start: '2023-04-28'
-          date_end: '2023-07-28'
-          description: |2-
-            - Recommender and ranking algorithm development for feed stream contents.
-            - C-end product management.
-            - PRD designs.
+        # Experiences data here...
 
-        - title: 'PTA'
-          company: Roland Berger
-          company_url: 'https://www.rolandberger.com/en/'
-          company_logo:
-          location: Shanghai / Singapore
-          date_start: '2022-12-01'
-          date_end: '2024-02-01'
-          description: |2-
-            - Conducted desk research on new energy vehicles and related OEM industries, and prepared monthly reports for client companies.
-            - Analyzed market conditions, collected and analyzed domestic and foreign market data, and used Excel, Python and other tools to present visual data results.
-            - Assisted the project team to conduct expert interviews, sorted out the interview minutes according to the voice of the expert interviews.
-            - Based on the industrial data collected, used Thinkcell and Islides to design slides for presentations.
-
-        - title: 'Intern'
-          company: Ernst & Young Parthenon
-          company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
-          company_logo:
-          location: Shanghai
-          date_start: '2022-05-01'
-          date_end: '2022-08-01'
-          description: |2-
-            - Partnered with project members to conduct desk researches of OEM and NEV companies, and design monthly reports for the client company.
-            - Collected and analyzed domestic and foreign market data using Excel, Python and other analysis tools so as to facilitate the quantitative analysis of the project.
-
-    design:
-      columns: '2'
-    - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -97,6 +61,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
   - block: markdown
     content:
       title: Gallery
@@ -105,6 +70,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+
   - block: contact
     id: contact
     content:
@@ -132,10 +98,10 @@ sections:
           captcha: false
     design:
       columns: '2'
+
   - block: contact
-    id: contact    
+    id: visitor_map
     content:
       title: Vistor's map
       directions:<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM"></script>
 ---
-
