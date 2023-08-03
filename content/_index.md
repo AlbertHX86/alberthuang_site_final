@@ -15,7 +15,7 @@ sections:
       title: Skills
       items:
         - name: Programming
-          description: Python, C++
+          description: Python, C++, MATLAB
           icon: r-project
           icon_pack: fab
         - name: Statistics
