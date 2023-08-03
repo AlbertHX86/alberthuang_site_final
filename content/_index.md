@@ -98,10 +98,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-
-  - block: contact
-    id: visitor_map
-    content:
-      title: Vistor's map
-      directions:<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM"></script>
 ---
