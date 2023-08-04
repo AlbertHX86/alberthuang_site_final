@@ -123,5 +123,5 @@ sections:
     id: contact
     content:
       title: Vistor's map
-      directions: <a href="https://clustrmaps.com/site/1bvwo"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM&cl=ffffff" /></a>
+      directions: <a href='https://clustrmaps.com/site/1bvwo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=0e1633&w=600&t=n&d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM&co=0b4975&ct=cdd4d9'/></a>
 ---
