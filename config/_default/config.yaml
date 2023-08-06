@@ -4,6 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Huang Xiao' # Website name
+custom_title_enabled: true
+custom_title_value: Albert
 baseURL: 'https://alberthuang.xyz/' # Website URL
 description: 'Huang Xiao is a student at National University of Singapore'
 
