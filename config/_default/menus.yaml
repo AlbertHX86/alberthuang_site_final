@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
-    url: '#projects'
+  - name: Experiences
+    url: '#experiences'
     weight: 30
-  # - name: Publications
-    # url: '#featured'
-    # weight: 50
+  - name: Projects
+    url: '#project'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
