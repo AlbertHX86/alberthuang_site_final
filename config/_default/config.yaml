@@ -79,6 +79,9 @@ sitemap:
 
 minify:
   _merge: deep
+params:
+  disable_robots: true
+
   
 footer:
   columns: "1" # You can adjust the number of footer columns based on your design
