@@ -3,18 +3,16 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Huang Xiao' # Website name
-custom_title_enabled: true
-custom_title_value: Albert
+title: Huang Xiao # Website name
 baseURL: 'https://alberthuang.xyz/' # Website URL
-description: 'Huang Xiao is a student at National University of Singapore'
+# description: 'Huang Xiao is a student at National University of Singapore'
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -37,7 +35,7 @@ enableGitInfo: false
 summaryLength: 30
 paginate: 10
 enableEmoji: true
-enableRobotsTXT: false
+enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
@@ -78,13 +76,34 @@ sitemap:
   
 
 minify:
-  _merge: deep
-params:
-  disable_robots: true
-
-  
-footer:
-  columns: "1" # You can adjust the number of footer columns based on your design
-  content:
-    # Other footer elements may be present here
-    - html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM"></script>'
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+  tdewolff:
+    css:
+      keepCSS2: true
+      precision: 0
+    html:
+      keepComments: false
+      keepConditionalComments: true
+      keepDefaultAttrVals: true
+      keepDocumentTags: true
+      keepEndTags: true
+      keepQuotes: false
+      keepWhitespace: false
+    js:
+      keepVarNames: false
+      noNullishOperator: false
+      precision: 0
+    json:
+      keepNumbers: false
+      precision: 0
+    svg:
+      keepComments: false
+      precision: 0
+    xml:
+      keepWhitespace: false
