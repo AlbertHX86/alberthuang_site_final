@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Experiences
-    url: '#experiences'
+    url: '#experience'
     weight: 30
   - name: Projects
-    url: '#project'
+    url: '#profilio'
     weight: 50
   - name: Contact
     url: '#contact'
