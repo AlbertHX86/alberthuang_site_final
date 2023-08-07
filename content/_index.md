@@ -28,6 +28,7 @@ sections:
           icon_pack: fas
 
   - block: experience
+    id: experience
     content:
       title: Experiences
       date_format: Jan 2006
