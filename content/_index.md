@@ -22,10 +22,15 @@ sections:
           description: ML, Linear Programming 
           icon: chart-line
           icon_pack: fas
-        - name: Research
-          description: smart grids, dynamic pricing
+        - name: electrical engineering
+          description: signals and systems, circuits, semi-conductors, grids
           icon: camera-retro
           icon_pack: fas
+    - block: contact
+    content:
+      title: Current Work
+      text: |-
+        Currently working on Independent Work project of "Integration of collaborative filtering to predict the demand of electricity in EV charging grid" with the supervision of Prof. Dr. Dipti Srinivasan, and Dr. Can Berk Saner, with the cooperation with Tian Jun Jie.
 
   - block: experience
     id: experience
