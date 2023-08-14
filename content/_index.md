@@ -9,7 +9,6 @@ sections:
     content:
       title: Biography
       username: admin
-
   - block: features
     content:
       title: Skills
