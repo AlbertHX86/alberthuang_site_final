@@ -43,10 +43,6 @@ email: huang_xiao@u.nus.edu
 ---
 As an alumnus of the University of Edinburgh, with a major in Electrical and Computer Engineering, I completed a year of rigorous study at the institution. And I had re-applied to National University of Singapore (NUS) to pursue  further studies in Electrical Engineering.
 
-During my academic tenure, my coursework encompassed a comprehensive range of EE-related subjects, including theoretical mathematics, applied mathematics, signals and systems, circuit analysis, and energy electronics. Additionally, I delved into system engineering topics, such as system dynamics, time series, and machine learning, etc.
-
-My skill set comprises proficiency in Arduino, Python, C++, MATLAB, Stella Architect (a system dynamics simulation tool), SolidWorks, and diverse applications of machine learning.
-
 Presently, my research interests revolve around optimization techniques, Bayesian clustering methodologies, and the domain of smart grids. I was working with prof. [Xiang Cheng](https://cde.nus.edu.sg/ece/staff/xiang-cheng/), and I am deeply invested in exploring these areas to contribute valuable insights to the field.
 
 Having engaged in previous research endeavors, I have actively worked on dynamic pricing models for airline tickets, smart grid optimization, and clustering problems. These experiences have honed my analytical abilities and fortified my passion for academic exploration.
