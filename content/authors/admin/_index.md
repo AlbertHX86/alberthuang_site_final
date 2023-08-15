@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: hx.jpg
 bio: Hello World
 interests:
   - Operations Research
