@@ -1,5 +1,5 @@
 ---
-avatar_filename: 1565ad2d69f011ca0bd0e25371ea5a8.png
+avatar_filename: avatar.jpg
 bio: Hello World
 interests:
   - Operations Research
