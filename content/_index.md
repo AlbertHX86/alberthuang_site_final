@@ -21,7 +21,7 @@ sections:
           description: ML, Linear Programming 
           icon: chart-line
           icon_pack: fas
-        - name: electrical engineering
+        - name: Electrical Engineering
           description: signals and systems, circuits, semi-conductors, grids
           icon: camera-retro
           icon_pack: fas
