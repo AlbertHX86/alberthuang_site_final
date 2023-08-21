@@ -7,7 +7,7 @@ title: Huang Xiao 黄骁 # Website name
 baseURL: 'https://alberthuang.xyz/' # Website URL
 description: 'Huang Xiao 黄骁 is currently an undergraduate student at National University of Singapore (NUS)'
 images:
-  - image:
+  - image: avatar.jpg
 
 
 ############################
