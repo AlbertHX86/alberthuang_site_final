@@ -70,7 +70,7 @@ sections:
     
         - title: 'Partner, Cofounder'
           company: YEAH
-          company_url: ''
+          company_url: 'https://www.linkedin.com/company/young-elite-alliances-in-hospitality/'
           company_logo:
           location: Hong Kong SAR
           date_start: '2022-04-01'
