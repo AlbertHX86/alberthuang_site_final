@@ -67,23 +67,15 @@ sections:
           description: |2-
             - Partnered with project members to conduct desk researches of OEM and NEV companies, and design monthly reports for the client company.
             - Collected and analyzed domestic and foreign market data using Excel, Python and other analysis tools so as to facilitate the quantitative analysis of the project.
-
-    design:
-      columns: '2'
-    - block: start-up
-    id: startup
-    content:
-      title: Start-up experiences
-      date_format: Jan 2006
-      items:
-        - title: 'Product Manager Intern, Algorithm'
+    
+        - title: 'Partner, Cofounder'
           company: YEAH
-          company_url: 'http://yeahworld.info/'
+          company_url: ''
           company_logo:
           location: Hong Kong SAR
-          date_start: '2022-04-1'
+          date_start: '2022-04-01'
           date_end: '2022-10-10'
-          description:
+          description: 
 
     design:
       columns: '2'
