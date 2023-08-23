@@ -47,7 +47,7 @@ sections:
         - title: 'PTA'
           company: Roland Berger
           company_url: 'https://www.rolandberger.com/en/'
-          company_logo:
+          company_logo: rb.png
           location: Shanghai / Singapore
           date_start: '2022-12-01'
           date_end: '2024-02-01'
