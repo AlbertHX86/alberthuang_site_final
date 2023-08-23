@@ -47,7 +47,7 @@ sections:
         - title: 'PTA'
           company: Roland Berger
           company_url: 'https://www.rolandberger.com/en/'
-          company_logo: rb.png
+          company_logo: rb
           location: Shanghai / Singapore
           date_start: '2022-12-01'
           date_end: '2024-02-01'
@@ -60,7 +60,7 @@ sections:
         - title: 'Intern'
           company: Ernst & Young Parthenon
           company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
-          company_logo: eyp.png
+          company_logo: eyp
           location: Shanghai
           date_start: '2022-05-01'
           date_end: '2022-08-01'
