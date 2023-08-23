@@ -70,6 +70,23 @@ sections:
 
     design:
       columns: '2'
+    - block: start-up
+    id: startup
+    content:
+      title: Start-up experiences
+      date_format: Jan 2006
+      items:
+        - title: 'Product Manager Intern, Algorithm'
+          company: YEAH
+          company_url: 'http://yeahworld.info/'
+          company_logo:
+          location: Hong Kong SAR
+          date_start: '2022-04-1'
+          date_end: '2022-10-10'
+          description:
+
+    design:
+      columns: '2'
   
   - block: portfolio
     id: projects
