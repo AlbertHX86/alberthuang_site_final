@@ -60,7 +60,7 @@ sections:
         - title: 'Intern'
           company: Ernst & Young Parthenon
           company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
-          company_logo: eyp
+          company_logo: assets/media/logos/eyp.png
           location: Shanghai
           date_start: '2022-05-01'
           date_end: '2022-08-01'
