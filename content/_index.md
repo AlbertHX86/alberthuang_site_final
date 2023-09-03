@@ -14,7 +14,7 @@ sections:
       title: Skills
       items:
         - name: Programming
-          description: Python, C++, MATLAB(Linkedin Certificated), SQL(Linkedin Certificated)
+          description: 'Python, C++, MATLAB (Linkedin Certificated), SQL Linkedin Certificate'
           icon: r-project
           icon_pack: fab
         - name: Statistics
