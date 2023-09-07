@@ -44,7 +44,7 @@ sections:
             - C-end product management.
             - PRD designs.
 
-        - title: 'PTA'
+        - title: 'in-pool PTA'
           company: Roland Berger
           company_url: 'https://www.rolandberger.com/en/'
           company_logo: 
