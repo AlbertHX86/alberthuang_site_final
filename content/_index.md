@@ -14,11 +14,11 @@ sections:
       title: Skills
       items:
         - name: Programming
-          description: Python, C++, MATLAB (LinkedIn certificated), SQL (LinkedIn certificated)
+          description: Python, C++ (LinkedIn certificated), MATLAB (LinkedIn certificated), SQL (LinkedIn certificated)
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: ML (LinkedIn certificated), Linear Programming 
+          description: ML (LinkedIn certificated), Linear Programming, GIS data analysis (QGIS)
           icon: chart-line
           icon_pack: fas
         - name: Electrical Engineering
