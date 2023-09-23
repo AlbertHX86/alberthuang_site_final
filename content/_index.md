@@ -57,7 +57,7 @@ sections:
             - Assisted the project team to conduct expert interviews, sorted out the interview minutes according to the voice of the expert interviews.
             - Based on the industrial data collected, used Thinkcell and Islides to design slides for presentations.
 
-        - title: 'Intern'
+        - title: 'Consulting Intern'
           company: Ernst & Young Parthenon
           company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
           company_logo: 
