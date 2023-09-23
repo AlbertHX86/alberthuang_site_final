@@ -40,9 +40,9 @@ sections:
           date_start: '2023-04-28'
           date_end: '2023-07-28'
           description: |2-
-            - Recommender and ranking algorithm development for feed stream contents.
-            - C-end product management.
-            - PRD designs.
+            - Led and collaborated with Recommender and Ranking Algorithm development; improved the PV-CTR by 5 times compared with the previous algorithms.
+            - Collaborated with a cross-functional team of developers to resolve key issues in LeetCode products and improve user experiences.
+            - Designed and engineered the deep-learning framework and environment for collaborative filtering, XGBoost training.
 
         - title: 'in-pool PTA'
           company: Roland Berger
