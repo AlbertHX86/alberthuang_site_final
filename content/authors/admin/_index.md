@@ -30,7 +30,7 @@ education:
     - course: BEng. in Electrical Engineering, Minor in Business Analytics,
         Specialization in Industry 4.0
       institution: National University of Singapore
-      year: Class of 2025
+      year: 2025
 superuser: true
 status:
   icon: ☕️
