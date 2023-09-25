@@ -6,7 +6,7 @@ draft: false
 featured: false
 categories: []
 image:
-  filename: featured
+  filename: flowchart.png
   focal_point: Smart
   preview_only: false
 ---
