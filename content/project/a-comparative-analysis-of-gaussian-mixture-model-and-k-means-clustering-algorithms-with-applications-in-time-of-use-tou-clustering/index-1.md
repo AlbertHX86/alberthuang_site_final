@@ -11,7 +11,7 @@ tags:
   - Research
 external_link: https://github.com/AlbertHX86/A-Comparative-Analysis-of-Gaussian-Mixture-Model-and-K-means-Clustering-Algorithms-With-Applications
 image:
-  filename: featured
+  filename: sphx_glr_plot_gmm_covariances_001.png
   focal_point: Smart
   preview_only: false
 ---
