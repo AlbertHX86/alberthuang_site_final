@@ -128,6 +128,10 @@ sections:
           captcha: false
     design:
       columns: '2'
+   id: contact
+    content:
+      title: Vistor's Map
+      directions: <a href='https://clustrmaps.com/site/1bvwo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=1000&t=n&d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM&co=ffffff&ct=808080'/></a>
     
   - block: contact
     id: contact2  # Unique ID for this contact block
