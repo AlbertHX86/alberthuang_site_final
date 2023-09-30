@@ -9,6 +9,7 @@ sections:
     content:
       title: Biography
       username: admin
+
   - block: features
     content:
       title: Skills
@@ -101,7 +102,7 @@ sections:
       flip_alt_rows: false
 
   - block: contact
-    id: contact
+    id: contact1  # Unique ID for this contact block
     content:
       title: Contact
       subtitle:
@@ -129,30 +130,27 @@ sections:
       columns: '2'
     
   - block: contact
-  id: contact
-  content:
-    title: comment place
-    widget: custom
-    custom:
-      content: |
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <title>Comment Section</title>
-        </head>
-        <body>
-            <h1>Comments</h1>
-            <div id="comments">
-                <!-- Comments will be displayed here -->
-            </div>
-            <form id="comment-form">
-                <input type="text" id="name" placeholder="Your Name">
-                <textarea id="comment" placeholder="Write your comment"></textarea>
-                <button type="submit">Submit</button>
-            </form>
-        </body>
-        </html>
-
-
-
+    id: contact2  # Unique ID for this contact block
+    content:
+      title: Comment Place
+      widget: custom
+      custom:
+        content: |
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <title>Comment Section</title>
+          </head>
+          <body>
+              <h1>Comments</h1>
+              <div id="comments">
+                  <!-- Comments will be displayed here -->
+              </div>
+              <form id="comment-form">
+                  <input type="text" id="name" placeholder="Your Name">
+                  <textarea id="comment" placeholder="Write your comment"></textarea>
+                  <button type="submit">Submit</button>
+              </form>
+          </body>
+          </html>
 ---
