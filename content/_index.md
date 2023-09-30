@@ -137,9 +137,9 @@ sections:
         <a href='https://clustrmaps.com/site/1bvwo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=1000&t=n&d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM&co=ffffff&ct=808080'/></a>
     
   - block: contact
-    id: contact3  # Unique ID for this contact block
+    id: comment_section
     content:
-      title: Comment Place
+      title: Comment Section
       widget: custom
       custom:
         content: |
@@ -147,6 +147,42 @@ sections:
           <html>
           <head>
               <title>Comment Section</title>
+              <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+              <style>
+                  /* Add CSS styles here for formatting */
+                  #comments {
+                      margin-top: 20px;
+                  }
+                  #comments div {
+                      border: 1px solid #ccc;
+                      padding: 10px;
+                      margin-bottom: 10px;
+                  }
+              </style>
+              <script>
+                  $(document).ready(function () {
+                      // Function to submit a comment
+                      function submitComment() {
+                          var name = $("#name").val();
+                          var comment = $("#comment").val();
+
+                          if (name && comment) {
+                              var commentHtml = "<div><strong>" + name + ":</strong> " + comment + "</div>";
+                              $("#comments").append(commentHtml);
+
+                              // Clear the input fields
+                              $("#name").val("");
+                              $("#comment").val("");
+                          }
+                      }
+
+                      // Handle form submission
+                      $("#comment-form").submit(function (e) {
+                          e.preventDefault();
+                          submitComment();
+                      });
+                  });
+              </script>
           </head>
           <body>
               <h1>Comments</h1>
@@ -160,3 +196,4 @@ sections:
               </form>
           </body>
           </html>
+---
