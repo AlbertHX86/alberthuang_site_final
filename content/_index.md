@@ -137,6 +137,7 @@ sections:
     id: contact
     content:
       title: Games
-      directions: <iframe src="https://www.prodigygame.com/play/" width="100%" height="600" frameborder="0"></iframe>
+      directions: <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-b65ebd5c-aa63-4c47-93ed-8ad3d5864991"></div>
 
 ---
