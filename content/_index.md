@@ -109,7 +109,7 @@ sections:
         Please feel free to contact me!
       email: huang_xiao@u.nus.edu
       phone: +65 80397262 / +86 15522133486
-      appointment_url: 'https://calendly.com'
+      appointment_url: '[https://calendly.com](https://calendly.com/2210333248hx/zoom-meeting)'
       address:
         street: 
         city: Singapore
@@ -129,15 +129,30 @@ sections:
       columns: '2'
     
   - block: contact
-    id: contact
-    content:
-      title: Vistor's map
-      directions: <a href='https://clustrmaps.com/site/1bvwo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=1000&t=n&d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM&co=ffffff&ct=808080'/></a>
-  - block: contact
-    id: contact
-    content:
-      title: Games
-      directions: <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-b65ebd5c-aa63-4c47-93ed-8ad3d5864991"></div>
+  id: contact
+  content:
+    title: comment place
+    widget: custom
+    custom:
+      content: |
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Comment Section</title>
+        </head>
+        <body>
+            <h1>Comments</h1>
+            <div id="comments">
+                <!-- Comments will be displayed here -->
+            </div>
+            <form id="comment-form">
+                <input type="text" id="name" placeholder="Your Name">
+                <textarea id="comment" placeholder="Write your comment"></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </body>
+        </html>
+
+
 
 ---
