@@ -5,7 +5,7 @@ summary: "![](deepracer.jpg)"
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: deepracer.jpg
   focal_point: Smart
   preview_only: false
 ---
