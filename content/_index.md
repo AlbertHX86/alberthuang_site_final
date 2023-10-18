@@ -23,7 +23,7 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: Electrical Engineering
-          description: Signals and systems, circuits, semi-conductors, grids
+          description: Signals and systems, circuits, semi-conductors, grids, control theories, simulation
           icon: camera-retro
           icon_pack: fas
 
