@@ -27,13 +27,14 @@ sections:
           icon: camera-retro
           icon_pack: fas
 
-    - block: contact
-    content:
-      title: Research interests
-      subtitle:
+    - block: text
+      content:
+        title: Research Interests
         text: |
-          Time series,
-          Recommender system (collaborative filtering, deep learning)
+          My research interests include:
+          - Time series analysis
+          - Recommender systems (collaborative filtering, deep learning)
+
 
 
   - block: experience
