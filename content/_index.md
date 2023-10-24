@@ -27,13 +27,13 @@ sections:
           icon: camera-retro
           icon_pack: fas
 
-  - block: contact
+    - block: contact
     content:
-    title: Research interests
-    subtitle:
-      text: |-
-        Time series, 
-        Recommender system (collaborative filtering, deep learning)
+      title: Research interests
+      subtitle:
+        text: |
+          Time series,
+          Recommender system (collaborative filtering, deep learning)
 
 
   - block: experience
