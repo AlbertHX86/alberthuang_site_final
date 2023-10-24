@@ -31,11 +31,8 @@ sections:
     content:
       title: Research Interests
       subtitle:
-      text: |-
-|
-      <div style="text-align: center;"> <!-- Center-align text -->
-        <p>Time series, Recommender systems</p>
-      </div>
+      text: 
+                   Time series, Recommender systems
 
 
   - block: experience
