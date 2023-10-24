@@ -27,12 +27,13 @@ sections:
           icon: camera-retro
           icon_pack: fas
   - block: contact
-    id:   # Unique ID for this contact block
+    id: research_interests  # Unique ID for this contact block
     content:
       title: Research Interests
       subtitle:
-      text: 
-                   Time series, Recommender systems
+      text: |-
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time series, Recommender systems
+
 
 
   - block: experience
