@@ -28,7 +28,7 @@ sections:
           icon_pack: fas
 
   - block: contact
-  content:
+    content:
     title: Research interests
     subtitle:
       text: |-
