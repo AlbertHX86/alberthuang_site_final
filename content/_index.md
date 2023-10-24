@@ -27,13 +27,13 @@ sections:
           icon: camera-retro
           icon_pack: fas
 
-  - block: text
+  - block: text  # Corrected indentation
     content:
       title: Research Interests
       text: |
         My research interests include:
-          - Time series analysis
-          - Recommender systems (collaborative filtering, deep learning)
+        - Time series analysis
+        - Recommender systems (collaborative filtering, deep learning)
 
 
 
