@@ -64,6 +64,30 @@ sections:
             - Analyzed market conditions, collected and analyzed domestic and foreign market data, and used Excel, Python and other tools to present visual data results.
             - Assisted the project team to conduct expert interviews, sorted out the interview minutes according to the voice of the expert interviews.
             - Based on the industrial data collected, used Thinkcell and Islides to design slides for presentations.
+    
+        - title: 'Consulting Intern'
+          company: Ernst & Young Parthenon
+          company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
+          company_logo: 
+          location: Shanghai
+          date_start: '2022-05-01'
+          date_end: '2022-08-01'
+          description: |2-
+            - Partnered with project members to conduct desk researches of OEM and NEV companies, and design monthly reports for the client company.
+            - Collected and analyzed domestic and foreign market data using Excel, Python and other analysis tools so as to facilitate the quantitative analysis of the project.
+    
+        - title: 'Partner, Cofounder'
+          company: YEAH
+          company_url: 'https://www.linkedin.com/company/young-elite-alliances-in-hospitality/'
+          company_logo:
+          location: Hong Kong SAR
+          date_start: '2022-04-01'
+          date_end: '2022-10-10'
+          description: 
+
+    design:
+      columns: '2'
+  
 
   - block: portfolio
     id: projects
