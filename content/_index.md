@@ -26,14 +26,12 @@ sections:
           description: Signals and systems, circuits, semi-conductors, grids, control theories, simulation
           icon: camera-retro
           icon_pack: fas
-  - block: contact
-    id: research_interests  # Unique ID for this contact block
+  - block: features
     content:
       title: Research Interests
-      subtitle:
-      text: |-
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time series, Recommender systems
-
+      items:
+        - name: Time series prediction
+        - name: Recommender systems
 
 
   - block: experience
