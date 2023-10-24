@@ -26,6 +26,11 @@ sections:
           description: Signals and systems, circuits, semi-conductors, grids, control theories, simulation
           icon: camera-retro
           icon_pack: fas
+  - block: contact
+    content:
+      title: Research interests
+    text: |-
+        Time series, Recommender system (collaborative filtering, deep learning)
 
   - block: experience
     id: experience
@@ -37,7 +42,7 @@ sections:
           company: LeetCode
           company_url: 'https://leetcode.com/'
           company_logo:
-          location: Shanghai, Singapore (remote)
+          location: Shanghai (On-site), Singapore (remote), Palo Alto (remote)
           date_start: '2023-04-28'
           date_end: '2023-07-28'
           description: |2-
