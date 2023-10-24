@@ -29,7 +29,8 @@ sections:
   - block: contact
     content:
       title: Research interests
-    text: |-
+      subtitle:
+        text: |-
         Time series, Recommender system (collaborative filtering, deep learning)
 
   - block: experience
