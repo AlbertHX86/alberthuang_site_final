@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Your Title Here"
 date: 2022-10-24
 type: landing
 
@@ -27,15 +27,13 @@ sections:
           icon: camera-retro
           icon_pack: fas
 
-  - block: text  # Corrected indentation
+  - block: text
     content:
       title: Research Interests
       text: |
         My research interests include:
         - Time series analysis
         - Recommender systems (collaborative filtering, deep learning)
-
-
 
   - block: experience
     id: experience
@@ -68,29 +66,6 @@ sections:
             - Assisted the project team to conduct expert interviews, sorted out the interview minutes according to the voice of the expert interviews.
             - Based on the industrial data collected, used Thinkcell and Islides to design slides for presentations.
 
-        - title: 'Consulting Intern'
-          company: Ernst & Young Parthenon
-          company_url: 'https://www.ey.com/en_gl/strategy/about-ey-parthenon'
-          company_logo: 
-          location: Shanghai
-          date_start: '2022-05-01'
-          date_end: '2022-08-01'
-          description: |2-
-            - Partnered with project members to conduct desk researches of OEM and NEV companies, and design monthly reports for the client company.
-            - Collected and analyzed domestic and foreign market data using Excel, Python and other analysis tools so as to facilitate the quantitative analysis of the project.
-    
-        - title: 'Partner, Cofounder'
-          company: YEAH
-          company_url: 'https://www.linkedin.com/company/young-elite-alliances-in-hospitality/'
-          company_logo:
-          location: Hong Kong SAR
-          date_start: '2022-04-01'
-          date_end: '2022-10-10'
-          description: 
-
-    design:
-      columns: '2'
-  
   - block: portfolio
     id: projects
     content:
@@ -106,10 +81,6 @@ sections:
           tag: Machine Learning
         - name: Other
           tag: Demo
-    design:
-      columns: '1'
-      view: showcase
-      flip_alt_rows: false
 
   - block: contact
     id: contact1  # Unique ID for this contact block
@@ -130,19 +101,11 @@ sections:
         country_code: SG
       directions: E4A
       autolink: true
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          captcha: false
-    design:
-      columns: '2'
-    
+
   - block: contact
     id: contact2  # Unique ID for this contact block
     content:
       title: Visitor's Map
       directions: |
-       <a href='https://clustrmaps.com/site/1bvwo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=1000&t=tt&d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM&co=ffffff&ct=808080'/></a>
+        <a href='https://clustrmaps.com/site/1bvwo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=1000&t=tt&d=QPw1wX8uwINZR0wrjvvevNVwAznnrxHsUuUFYY4C3WM&co=ffffff&ct=808080'/></a>
 ---
