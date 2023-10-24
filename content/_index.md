@@ -1,5 +1,5 @@
 ---
-title: "Huang Xiao"
+title: "Albert"
 date: 2022-10-24
 type: landing
 
@@ -26,6 +26,14 @@ sections:
           description: Signals and systems, circuits, semi-conductors, grids, control theories, simulation
           icon: camera-retro
           icon_pack: fas
+  - block: contact
+    id:   # Unique ID for this contact block
+    content:
+      title: Research Interests
+      subtitle:
+      text: |-
+        Time series, Recommender systems
+
 
   - block: experience
     id: experience
