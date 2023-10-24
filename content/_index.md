@@ -32,7 +32,10 @@ sections:
       title: Research Interests
       subtitle:
       text: |-
-        Time series, Recommender systems
+|
+      <div style="text-align: center;"> <!-- Center-align text -->
+        <p>Time series, Recommender systems</p>
+      </div>
 
 
   - block: experience
