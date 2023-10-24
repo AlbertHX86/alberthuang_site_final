@@ -1,5 +1,5 @@
 ---
-title: "Your Title Here"
+title: "Huang Xiao"
 date: 2022-10-24
 type: landing
 
@@ -26,14 +26,6 @@ sections:
           description: Signals and systems, circuits, semi-conductors, grids, control theories, simulation
           icon: camera-retro
           icon_pack: fas
-
-  - block: text
-    content:
-      title: Research Interests
-      text: |
-        My research interests include:
-        - Time series analysis
-        - Recommender systems (collaborative filtering, deep learning)
 
   - block: experience
     id: experience
