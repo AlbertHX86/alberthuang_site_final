@@ -9,6 +9,12 @@ sections:
     content:
       title: Biography
       username: admin
+  - block: features
+    content:
+      title: Research Interests
+      items:
+        - name: Time series prediction
+        - name: Recommender systems
 
   - block: features
     content:
@@ -26,13 +32,6 @@ sections:
           description: Signals and systems, circuits, semi-conductors, grids, control theories, simulation
           icon: camera-retro
           icon_pack: fas
-  - block: features
-    content:
-      title: Research Interests
-      items:
-        - name: Time series prediction
-        - name: Recommender systems
-
 
   - block: experience
     id: experience
