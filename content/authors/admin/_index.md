@@ -2,8 +2,8 @@
 avatar_filename: avatar.jpg
 bio: Hello World
 interests:
-  - Operations Research
-  - Machine Learning
+  - Recommender system
+  - Time series prediction (LSTM)
   - Industry 4.0
   - Electrical Engineering
 social:
