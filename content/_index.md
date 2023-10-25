@@ -9,13 +9,7 @@ sections:
     content:
       title: Biography
       username: admin
-  - block: features
-    content:
-      title: Research Interests
-      items:
-        - name: Time series prediction
-        - name: Recommender systems
-
+    
   - block: features
     content:
       title: Skills
