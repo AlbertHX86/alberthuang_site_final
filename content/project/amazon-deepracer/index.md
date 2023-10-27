@@ -1,11 +1,11 @@
 ---
 title: Amazon DeepRacer
 date: 2023-10-12T03:10:11.969Z
-summary: "![](deepracer.jpg)"
+summary: "![]()"
 draft: false
 featured: true
 image:
-  filename: deepracer.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
