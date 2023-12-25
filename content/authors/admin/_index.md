@@ -4,8 +4,7 @@ bio: Hello World
 interests:
   - Recommender system
   - Time series prediction (LSTM)
-  - Industry 4.0
-  - Electrical Engineering
+  - Human-Computer Interaction (HCI)
 social:
   - icon: envelope
     icon_pack: fas
