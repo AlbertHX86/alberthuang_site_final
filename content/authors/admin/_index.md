@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/xiao-h-26b2171b7/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: resume.pdf
 organizations:
   - name: National University of Singapore
     url: https://www.nus.edu.sg/
