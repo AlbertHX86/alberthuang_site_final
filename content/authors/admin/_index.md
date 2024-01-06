@@ -17,7 +17,7 @@ social:
     link: https://github.com/AlbertHX86
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/in/xiao-huang-26b2171b7/](https://www.linkedin.com/in/xiao-h-26b2171b7/)
+    link: https://www.linkedin.com/in/xiao-h-26b2171b7/
   - icon: cv
     icon_pack: ai
     link: 
